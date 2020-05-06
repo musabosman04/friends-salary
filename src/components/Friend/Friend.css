@@ -1,0 +1,14 @@
+.friend-container{
+    display: flex;
+    margin-top: 30px;
+}
+.friend-container .left{
+    width: 10%;
+}
+.friend-container .center{
+    width: 70%;
+    border-right: 1px solid lightgray;
+}
+.friend-container .right{
+    width: 20%;
+}
